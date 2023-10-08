@@ -22,7 +22,7 @@ Pré-requisitos: npm
 ```bash
 # clone o repositório da aplicação
 
-gh repo clone GabriellPassos/OrkutAngular
+gh repo clone GabriellPassos/DetectorCartasTCG
 
 #execute o git bash dentro do repositório
 #instale as dependências do projeto
