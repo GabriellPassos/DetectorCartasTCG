@@ -7,6 +7,8 @@
 ## :mag_right: Visão geral
 ### Home
 ![pagina de autenticacao](https://raw.githubusercontent.com/GabriellPassos/assets/main/detectorTCG/1.PNG)
+#### Configurações
+  Os resultados podem ser filtrados por suas dimensões, evitando assim falsos positivos.
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 ### Front end
